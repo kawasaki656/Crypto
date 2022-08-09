@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Crypto</string>
+	<string moduleConfig="true" name="CodePushDeploymentKey">VP6EHtUEIe4EfKckOaQyR04LnbvmH_Ext9Zlw</string>
+<!--Code push staging deployment key	0UG9iN-YbuQbTGJz-T4iCHZNLIVE6SwpWgyta  -->
+</resources>
